@@ -1,4 +1,4 @@
-# ESP-Projects
+# IoT Projects
 
 This is a collection of complete code to use in interfacing Arduino/NodeMCU/ESP8266 with various sensors
 
