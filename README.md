@@ -10,4 +10,4 @@ MQTT is the protocol used for communicating between the clients and sensors. Ada
 Many of the methods used here require downloading and including the ESP8266Wifi, Adafruit_MQTT and Adafruit_MQTT_Client libraries in your Arduino IDE.
 
 <h2>Contents</h2>
-1. <a href="https://github.com/CraftyWiz/ESP-Projects/blob/main/MQ9.ino">MQ Sensors</a> - Uses the MQ series of gas sensors to detect and measure the quantity of smoke and impurities (depending on the model of the sensor) present in the air. This example uses the MQ-9 sensor but any sensor would work on making appropriate changes to the threshold value
+1. <a href="https://github.com/CraftyWiz/ESP-Projects/blob/main/MQ9.ino">MQ Sensors</a> - Uses the MQ series of gas sensors to detect and measure the quantity of smoke and impurities (depending on the model of the sensor) present in the air. This example uses the MQ-9 sensor but any sensor would work on making appropriate changes to the threshold value.
