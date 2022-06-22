@@ -103,7 +103,7 @@ void loop() {
   	smokealert.publish("Smoke Detected");
  
   // wait a few seconds to avoid rate limit
-  delay(4001);
+  delay(4001); //This can be set to 2001 if the upgraded version of Adafruit broker is available
 
 }
 
